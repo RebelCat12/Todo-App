@@ -1,5 +1,6 @@
-- MVP:
-Run the app on the command line
-Be able to add a todo item
-Be able to remove a todo item
-Be able to mark a todo item as done
+MVP:
+    - Run the app on the command line
+    - Be able to add a todo item
+    - Be able to remove a todo item
+    - Be able to mark a todo item as done
+
